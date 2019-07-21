@@ -11,4 +11,4 @@
   remote_user: ansible
   roles:
     - sshd
-    - terraform
+    - azure-cli
