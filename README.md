@@ -1,4 +1,4 @@
-terraformer
+bastion
 =========
 
 A playbook to setup a local virtual machine for bastion
